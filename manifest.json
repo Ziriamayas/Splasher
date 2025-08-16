@@ -1,0 +1,14 @@
+{
+  "name": "Splasher",
+  "description": "Lets you use Imgur pictures as profile banners! Ported from Enmity to Revenge.",
+  "authors": [
+    {
+      "name": "Ziri",
+      "id": "1394028908797497457"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_profile_24px"
+  }
+}
